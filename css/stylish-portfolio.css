@@ -32,11 +32,11 @@ body {
 /* Custom Button Styles */
 
 .btn-dark {
-    border-radius: 4px;
-    width: 15%;
-    margin: 20px 40px;
+    border-radius: 3px;
+    padding: 20px 45px;
+    margin: 22px;
     color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0,0,3);
 }
 
 .btn-dark:hover,
