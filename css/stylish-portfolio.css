@@ -33,7 +33,7 @@ body {
 
 .btn-dark {
     border-radius: 4px;
-    padding: 20px 80px;
+    width: 15%;
     margin: 20px 40px;
     color: #fff;
     background-color: rgba(0,0,0,0.4);
