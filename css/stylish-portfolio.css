@@ -36,7 +36,7 @@ body {
     padding: 20px 45px;
     margin: 22px;
     color: #fff;
-    background-color: rgba(0,0,0,0,3);
+    background-color: rgba(0,0,0,0.4);
 }
 
 .btn-dark:hover,
