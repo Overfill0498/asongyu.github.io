@@ -32,9 +32,9 @@ body {
 /* Custom Button Styles */
 
 .btn-dark {
-    border-radius: 4;
-    padding: 100 355;
-    margin:20 400;
+    border-radius: 4px;
+    padding: 100px 355px;
+    margin: 20px 400px;
     color: #fff;
     background-color: rgba(0,0,0,0.4);
 }
